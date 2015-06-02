@@ -1,3 +1,7 @@
 ve
 demo/data.db
-
+.idea/
+build/
+dist/
+*.whl
+django_queryset_transform.egg-info/
